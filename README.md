@@ -1,4 +1,4 @@
-# Ludovic Papin
+# [![Ludovic Papin](./profile-header.png)](https://ludovicpapin.github.io/)
 
 I’m a mathematician and computer scientist with interests in mathematical modelling, formal methods and data science.
 
